@@ -79,25 +79,33 @@ The objective of Ecoflect Earthwear is to encourage sustainable fashion practice
 
 screenshots of:
 - Home Page
+- 
 - <img width="1892" height="826" alt="About" src="https://github.com/user-attachments/assets/a32798d7-e1cd-48f2-8d19-3acd0bf5b220" />
 
 - Product Page
+- 
 - <img width="1882" height="846" alt="Products" src="https://github.com/user-attachments/assets/6801d783-5544-434f-a278-674a34f52983" />
 
 - Sustainability Calculator
+- 
 - <img width="1366" height="902" alt="SustainableCalculator" src="https://github.com/user-attachments/assets/cbf4a890-a561-47d8-a500-bc0390f66072" />
+
 -<img width="918" height="632" alt="Calculator" src="https://github.com/user-attachments/assets/d3ad5af8-f477-4fe2-80f0-acf2ea883a7b" />
 
 -chatbot
+
 -<img width="465" height="707" alt="Chatbot" src="https://github.com/user-attachments/assets/c5fe59ca-9bcf-4d1f-9935-5b1a9c87710a" />
 
 -FAQ
+
 -<img width="1255" height="902" alt="FAQ" src="https://github.com/user-attachments/assets/4b665b9d-c3f7-4b55-b9a3-e715a75ed960" />
 
 - Cart Page
-- <img width="1911" height="1022" alt="cart" src="https://github.com/user-attachments/assets/eefdff01-ecbe-4968-aeba-8e4517a774a6" />
+
+-<img width="1317" height="875" alt="Cart" src="https://github.com/user-attachments/assets/a4bc98f4-bf03-4b0d-bdf3-bf778f2cb376" />
 
 - Contact Page
+- 
 - <img width="1301" height="876" alt="contact" src="https://github.com/user-attachments/assets/9bc5b3c7-e96a-4b53-a723-217785e5a6bd" />
 
 

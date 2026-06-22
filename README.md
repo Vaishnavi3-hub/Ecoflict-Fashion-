@@ -6,7 +6,7 @@ Ecoflect Earthwear is a sustainable fashion e-commerce platform designed to prom
 
 - Modern and responsive user interface
 - Sustainable fashion product catalog
-- Shopping cart functionality
+- Shopping cart functionality 
 - Sustainability Calculator
 - Customer testimonials section
 - FAQ page
